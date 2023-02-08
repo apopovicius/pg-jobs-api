@@ -4,9 +4,6 @@ info:
     contact: {}
     version: '1.0'
 servers:
-    - url: http://localhost:5000/api/v1/
-      description: dev
-      variables: {}
     - url: https://jobs-api-hgac.onrender.com/api/v1
       description: Production
       variables: {}
