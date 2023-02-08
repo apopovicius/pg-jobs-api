@@ -4,7 +4,7 @@ info:
     contact: {}
     version: '1.0'
 servers:
-    - url: https://jobs-api-hgac.onrender.com/api/v1
+    - url: https://jobs-api-hgac.onrender.com
       description: Production
       variables: {}
 paths:
